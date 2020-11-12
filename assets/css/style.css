@@ -16,8 +16,8 @@ html {
 #inicio .jumbotron {
     background-image: url('../img/Imagen-de-iOS.png');
     background-size: cover;
-    background-position: center;
     background-repeat: no-repeat;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: flex-end;
