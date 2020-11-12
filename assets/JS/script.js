@@ -9,3 +9,4 @@ $('.card-title').click(function () {
 
     });
 }); 
+
